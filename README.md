@@ -4,7 +4,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Predictive-Factory-Machine-Breakdown-Trackers/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -70,9 +70,9 @@ The following SaaS and hosted platforms provide commercial-grade machine health 
 
 Explore open-source alternatives for building self-hosted predictive maintenance pipelines, custom vibration feature extractors, and open CMMS backends. 
 
-Repositories are **sorted in descending order by GitHub star count**. Each badge links directly to the repository's stargazers page.
+Repositories are **sorted in descending order by GitHub Stars_Count**. Each badge links directly to the repository's stargazers page.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 🏷️ Category & Tech Stack | 📝 Description & Architectural Utility |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 🏷️ Category & Tech Stack | 📝 Description & Architectural Utility |
 | :--- | :---: | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Visualization & Dashboards<br>`Go` `TypeScript` | The industry-standard open visualization suite. Builds real-time factory machine health dashboards, waterfall FFT plots, and alert thresholds. |
 | **[InfluxDB](https://github.com/influxdata/influxdb)** | [![Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) | Time-Series Database<br>`Go` `Rust` | High-write throughput time-series database optimized for storing high-frequency accelerometer streams and temperature telemetry. |
