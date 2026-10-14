@@ -1,6 +1,6 @@
 # Awesome-Predictive-Factory-Machine-Breakdown-Trackers
 
-# Top Predictive Factory Machine Breakdown Trackers Ecosystem
+## Top Predictive Factory Machine Breakdown Trackers Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Vibration Analysis, Acoustic Monitoring & Remaining Useful Life Prediction*  
